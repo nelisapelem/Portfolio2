@@ -1,0 +1,13 @@
+/*contact*/
+form {
+    text-align: center;
+}
+.input{
+    width: 60%;
+}
+#msg{
+    width: 60%;
+}
+#send{
+    width: 20%;
+}
